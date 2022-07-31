@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @catjap2000
+- 👋 Hi, I’m Caterina
 - 👀 I’m interested in technologies, photography, arts, etc
 - 🌱 I’m currently learning [Automation Testing], (JAVA), {SQL};
 - 📫 How to reach me: catjap2000@gmail.com
