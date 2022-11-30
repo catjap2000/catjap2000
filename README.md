@@ -1,6 +1,7 @@
-- 👋 Hi, I’m Caterina
+- 👋 Hi, I’m Ekaterina
 - 👀 I’m interested in technologies, photography, arts, etc
-- 🌱 I’m currently learning [Automation Testing], (JAVA), {SQL};
+- 🌱 I’ve completed courses in manual and automation testing
+- 💻 Now I'm ready to start working as Manual Tester
 - 📫 How to reach me: epkhaladze@yahoo.com
 
 <!---
